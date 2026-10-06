@@ -1,0 +1,6 @@
+{
+  "name": "Certificate Generator",
+  "description": "تطبيق متكامل لتصميم وإصدار شهادات التقدير تلقائياً من ملفات Excel و PDF مع السحب والإفلات وتصدير ملف ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
